@@ -1,55 +1,55 @@
 # Statistics-For-Genomic-Data-Science-HTML
 
-1.	Description
+## 1.	Description
 
 Introduction to the statistics and the most popular genomic data science projects. A collection of HTML documents with R programming code plus explanations that can be downloaded and printed out. The same analyses are also available in R code format and R markdown see links to these repositories as well
 
-a) R code - https://github.com/samalkani/Statistics-For-Genomic-Data-Science-R
-b) R markdown - https://github.com/samalkani/Statistics-For-Genomic-Data-Science-RMD
+* R code - https://github.com/samalkani/Statistics-For-Genomic-Data-Science-R
+* R markdown - https://github.com/samalkani/Statistics-For-Genomic-Data-Science-RMD
 
-2.	Module 1 - Introduction
+## 2.	Module 1 - Introduction
 
-•	R markdown
-•	The three tables in genomics
-•	Exploratory Analysis
-•	Data transforms
-•	Clustering
+* R markdown
+* The three tables in genomics
+* Exploratory Analysis
+* Data transforms
+* Clustering
 
-3. Module 2 - Pre-processing, linear regressions, confounders and batch effects
+## 3. Module 2 - Pre-processing, linear regressions, confounders and batch effects
 
-•	Dimension reduction
-•	Pre-processing and normalization, Quantile normalization
-•	The linear model
-•	Linear models with categorical covariates
-•	Adjusting for covariates
-•	Linear regression
-•	Many regressions at once
-•	Batch effects and confounders
+* Dimension reduction
+* Pre-processing and normalization, Quantile normalization
+* The linear model
+* Linear models with categorical covariates
+* Adjusting for covariates
+* Linear regression
+* Many regressions at once
+* Batch effects and confounders
 
-4. Module 3 - Logistic regressions and GLM's, Calculating statistics, Permutations, P-Values and multiple testing
+## 4. Module 3 - Logistic regressions and GLM's, Calculating statistics, Permutations, P-Values and multiple testing
 
-•	Logistic regression
-•	Regression for counts
-•	GLMs
-•	Inference
-•	Null and alternative hypotheses
-•	Calculating statistics
-•	Comparing models
-•	Calculating statistics
-•	Permutation
-•	P-values and multiple testing in R
+* Logistic regression
+* Regression for counts
+* GLMs
+* Inference
+* Null and alternative hypotheses
+* Calculating statistics
+* Comparing models
+* Calculating statistics
+* Permutation
+* P-values and multiple testing in R
 
-5. Module 4 - Gene set analysis, eQTL
+## 5. Module 4 - Gene set analysis, eQTL
 
-•	Gene set analysis
-•	More enrichment
-•	Gene set analysis
-•	The process for RNA-seq
-•	The process for Chip-Seq
-•	The process for DNA methylation
-•	The process for GWAS/WGS
-•	Combining data types (eQTL)
-•	eQTL
-•	Researcher degrees of freedom
-•	Inference vs. prediction
+* Gene set analysis
+* More enrichment
+* Gene set analysis
+* The process for RNA-seq
+* The process for Chip-Seq
+* The process for DNA methylation
+* The process for GWAS/WGS
+* Combining data types (eQTL)
+* eQTL
+* Researcher degrees of freedom
+* Inference vs. prediction
 
